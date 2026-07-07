@@ -11,106 +11,106 @@
     - How strongly it pulls toward that mood (mood_weight)
 -->
 
-<I c="Buff" i="buff" m="buffs.buff" n="wwbm_amph_aggression_1" s="1001">
+<I c="Buff" i="buff" m="buffs.buff" n="wwbm_amph_aggression_1" s="16461769487103204847">
   <!-- Level 1 aggression — mild irritability from amphetamine -->
   <L n="audio_sting_on_add">
     <U>
       <T n="sting_type">STING_GENERAL_NEGATIVE</T>
     </U>
   </L>
-  <T n="buff_name">0x1001<!--Restless--></T>
-  <T n="buff_description">0x1002<!--Something isn't working and it's making this Sim tense.--></T>
+  <T n="buff_name">0x98314565181<!--Restless--></T>
+  <T n="buff_description">0x98314565182<!--Something isn't working and it's making this Sim tense.--></T>
   <T n="mood_type">Angry</T>
   <T n="mood_weight">1</T>
   <T n="visible">True</T>
   <T n="ui_sort_order">1</T>
 </I>
 
-<I c="Buff" i="buff" m="buffs.buff" n="wwbm_amph_aggression_2" s="1003">
+<I c="Buff" i="buff" m="buffs.buff" n="wwbm_amph_aggression_2" s="98314565183">
   <!-- Level 2 aggression — real anger building -->
-  <T n="buff_name">0x1003<!--Furious--></T>
-  <T n="buff_description">0x1004<!--This Sim is getting angrier by the minute. Nothing is going right.--></T>
+  <T n="buff_name">0x98314565183<!--Furious--></T>
+  <T n="buff_description">0x98314565184<!--This Sim is getting angrier by the minute. Nothing is going right.--></T>
   <T n="mood_type">Angry</T>
   <T n="mood_weight">3</T>
   <T n="visible">True</T>
 </I>
 
-<I c="Buff" i="buff" m="buffs.buff" n="wwbm_amph_aggression_3" s="1005">
+<I c="Buff" i="buff" m="buffs.buff" n="wwbm_amph_aggression_3" s="98314565185">
   <!-- Level 3 aggression — peak rage -->
-  <T n="buff_name">0x1005<!--Raging--></T>
-  <T n="buff_description">0x1006<!--This Sim is absolutely furious. Everything feels like an insult.--></T>
+  <T n="buff_name">0x98314565185<!--Raging--></T>
+  <T n="buff_description">0x98314565186<!--This Sim is absolutely furious. Everything feels like an insult.--></T>
   <T n="mood_type">Angry</T>
   <T n="mood_weight">5</T>
   <T n="visible">True</T>
 </I>
 
-<I c="Buff" i="buff" m="buffs.buff" n="wwbm_amph_frustrated" s="1007">
+<I c="Buff" i="buff" m="buffs.buff" n="wwbm_amph_frustrated" s="98314565187">
   <!-- Post-session frustration for the affected sim -->
-  <T n="buff_name">0x1007<!--Humiliated and Furious--></T>
-  <T n="buff_description">0x1008<!--This Sim left feeling furious and humiliated. Things did not go the way they hoped.--></T>
+  <T n="buff_name">0x98314565187<!--Humiliated and Furious--></T>
+  <T n="buff_description">0x98314565188<!--This Sim left feeling furious and humiliated. Things did not go the way they hoped.--></T>
   <T n="mood_type">Angry</T>
   <T n="mood_weight">4</T>
   <T n="visible">True</T>
 </I>
 
-<I c="Buff" i="buff" m="buffs.buff" n="wwbm_partner_bored_1" s="1009">
+<I c="Buff" i="buff" m="buffs.buff" n="wwbm_partner_bored_1" s="98314565189">
   <!-- Partner early boredom -->
-  <T n="buff_name">0x1009<!--Not Feeling It--></T>
-  <T n="buff_description">0x1010<!--This Sim isn't enjoying themselves. Something is off.--></T>
+  <T n="buff_name">0x98314565189<!--Not Feeling It--></T>
+  <T n="buff_description">0x983145651810<!--This Sim isn't enjoying themselves. Something is off.--></T>
   <T n="mood_type">Bored</T>
   <T n="mood_weight">1</T>
   <T n="visible">True</T>
 </I>
 
-<I c="Buff" i="buff" m="buffs.buff" n="wwbm_partner_bored_2" s="1011">
+<I c="Buff" i="buff" m="buffs.buff" n="wwbm_partner_bored_2" s="983145651811">
   <!-- Partner mid-level annoyance -->
-  <T n="buff_name">0x1011<!--Annoyed--></T>
-  <T n="buff_description">0x1012<!--This is a waste of time. This Sim is getting more and more annoyed.--></T>
+  <T n="buff_name">0x983145651811<!--Annoyed--></T>
+  <T n="buff_description">0x983145651812<!--This is a waste of time. This Sim is getting more and more annoyed.--></T>
   <T n="mood_type">Angry</T>
   <T n="mood_weight">2</T>
   <T n="visible">True</T>
 </I>
 
-<I c="Buff" i="buff" m="buffs.buff" n="wwbm_partner_aggravated" s="1013">
+<I c="Buff" i="buff" m="buffs.buff" n="wwbm_partner_aggravated" s="983145651813">
   <!-- Partner done — post session -->
-  <T n="buff_name">0x1013<!--Done With This--></T>
-  <T n="buff_description">0x1014<!--This Sim is done. Completely done. They want nothing to do with that person right now.--></T>
+  <T n="buff_name">0x983145651813<!--Done With This--></T>
+  <T n="buff_description">0x983145651814<!--This Sim is done. Completely done. They want nothing to do with that person right now.--></T>
   <T n="mood_type">Angry</T>
   <T n="mood_weight">4</T>
   <T n="visible">True</T>
 </I>
 
-<I c="Buff" i="buff" m="buffs.buff" n="wwbm_relationship_ruined" s="1015">
+<I c="Buff" i="buff" m="buffs.buff" n="wwbm_relationship_ruined" s="983145651815">
   <!-- Lingering relationship damage moodlet -->
-  <T n="buff_name">0x1015<!--Betrayed--></T>
-  <T n="buff_description">0x1016<!--Something happened that this Sim can't easily forgive. That relationship needs serious work.--></T>
+  <T n="buff_name">0x983145651815<!--Betrayed--></T>
+  <T n="buff_description">0x983145651816<!--Something happened that this Sim can't easily forgive. That relationship needs serious work.--></T>
   <T n="mood_type">Sad</T>
   <T n="mood_weight">3</T>
   <T n="visible">True</T>
 </I>
 
-<I c="Buff" i="buff" m="buffs.buff" n="wwbm_ghb_wavy" s="1017">
+<I c="Buff" i="buff" m="buffs.buff" n="wwbm_ghb_wavy" s="983145651817">
   <!-- G is active — wavy screen -->
-  <T n="buff_name">0x1017<!--The Room is Moving--></T>
-  <T n="buff_description">0x1018<!--Everything is shifting. The edges of things won't stay still.--></T>
+  <T n="buff_name">0x983145651817<!--The Room is Moving--></T>
+  <T n="buff_description">0x983145651818<!--Everything is shifting. The edges of things won't stay still.--></T>
   <T n="mood_type">Dazed</T>
   <T n="mood_weight">3</T>
   <T n="visible">True</T>
 </I>
 
-<I c="Buff" i="buff" m="buffs.buff" n="wwbm_ghb_blackout" s="1019">
+<I c="Buff" i="buff" m="buffs.buff" n="wwbm_ghb_blackout" s="983145651819">
   <!-- G blackout aftermath -->
-  <T n="buff_name">0x1019<!--What Happened?--></T>
-  <T n="buff_description">0x1020<!--This Sim can't remember. There's a gap. Something went very wrong.--></T>
+  <T n="buff_name">0x983145651819<!--What Happened?--></T>
+  <T n="buff_description">0x983145651820<!--This Sim can't remember. There's a gap. Something went very wrong.--></T>
   <T n="mood_type">Uncomfortable</T>
   <T n="mood_weight">4</T>
   <T n="visible">True</T>
 </I>
 
-<I c="Buff" i="buff" m="buffs.buff" n="wwbm_g_withdrawal" s="1021">
+<I c="Buff" i="buff" m="buffs.buff" n="wwbm_g_withdrawal" s="983145651821">
   <!-- G withdrawal -->
-  <T n="buff_name">0x1021<!--Coming Down Hard--></T>
-  <T n="buff_description">0x1022<!--This Sim feels awful. Their body is paying the price.--></T>
+  <T n="buff_name">0x983145651821<!--Coming Down Hard--></T>
+  <T n="buff_description">0x983145651822<!--This Sim feels awful. Their body is paying the price.--></T>
   <T n="mood_type">Uncomfortable</T>
   <T n="mood_weight">3</T>
   <T n="visible">True</T>
