@@ -2,10 +2,8 @@
 <!--
   wwbm_buffs.xml
   Defines all the custom moodlets (buffs) this mod adds to the game.
-  Place this file in the same folder as your .ts4script file.
   
   Each buff needs:
-    - A unique instance ID (made up hex number, must not clash with other mods)
     - A display name and description the player sees
     - A mood it contributes to (Angry, Uncomfortable, Bored, etc.)
     - How strongly it pulls toward that mood (mood_weight)
